@@ -67,6 +67,9 @@ Default UART order
 - SERIAL3 = GPS1 = USART1
 - SERIAL4 = GPS2 = UART5
 
+BATT_CURR_PIN = 9
+BATT_VOLT_PIN = 9
+
 Serial protocols can be adjusted to personal preferences.
 
 Where to Buy
